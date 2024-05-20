@@ -20,7 +20,7 @@ https://github.com/Shougo/ddu-column-filename
 
 ```vim
 call ddu#custom#patch_global(#{
-    \   columns: ['filename', 'gitstatus'],
+    \   columns: ['filename', 'git_status'],
     \ })
 ```
 
